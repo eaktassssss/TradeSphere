@@ -1,0 +1,2 @@
+﻿Add-Migration name -OutputDir  E:\TradeSphere\Order.Persistence\DbContexts\Migrations\SQL
+update-database

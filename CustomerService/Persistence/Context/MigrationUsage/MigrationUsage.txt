@@ -1,0 +1,2 @@
+﻿Add-Migration name -OutputDir  E:\ShopsRU\ShopsRU.Persistence\Context\Migrations\SQL
+update-database

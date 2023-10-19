@@ -1,0 +1,2 @@
+﻿Add-Migration name -OutputDir C:\Users\eaktas\source\repos\TradeSphere\Identity.Persistence\Context\Migrations\SQL
+update-database
